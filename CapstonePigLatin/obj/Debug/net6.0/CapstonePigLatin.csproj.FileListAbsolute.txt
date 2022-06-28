@@ -1,0 +1,15 @@
+C:\Users\Krista\Documents\Grand Circus Bootcamp\DailyLabs\CapstonePigLatin\CapstonePigLatin\bin\Debug\net6.0\CapstonePigLatin.exe
+C:\Users\Krista\Documents\Grand Circus Bootcamp\DailyLabs\CapstonePigLatin\CapstonePigLatin\bin\Debug\net6.0\CapstonePigLatin.deps.json
+C:\Users\Krista\Documents\Grand Circus Bootcamp\DailyLabs\CapstonePigLatin\CapstonePigLatin\bin\Debug\net6.0\CapstonePigLatin.runtimeconfig.json
+C:\Users\Krista\Documents\Grand Circus Bootcamp\DailyLabs\CapstonePigLatin\CapstonePigLatin\bin\Debug\net6.0\CapstonePigLatin.dll
+C:\Users\Krista\Documents\Grand Circus Bootcamp\DailyLabs\CapstonePigLatin\CapstonePigLatin\bin\Debug\net6.0\CapstonePigLatin.pdb
+C:\Users\Krista\Documents\Grand Circus Bootcamp\DailyLabs\CapstonePigLatin\CapstonePigLatin\obj\Debug\net6.0\CapstonePigLatin.csproj.AssemblyReference.cache
+C:\Users\Krista\Documents\Grand Circus Bootcamp\DailyLabs\CapstonePigLatin\CapstonePigLatin\obj\Debug\net6.0\CapstonePigLatin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krista\Documents\Grand Circus Bootcamp\DailyLabs\CapstonePigLatin\CapstonePigLatin\obj\Debug\net6.0\CapstonePigLatin.AssemblyInfoInputs.cache
+C:\Users\Krista\Documents\Grand Circus Bootcamp\DailyLabs\CapstonePigLatin\CapstonePigLatin\obj\Debug\net6.0\CapstonePigLatin.AssemblyInfo.cs
+C:\Users\Krista\Documents\Grand Circus Bootcamp\DailyLabs\CapstonePigLatin\CapstonePigLatin\obj\Debug\net6.0\CapstonePigLatin.csproj.CoreCompileInputs.cache
+C:\Users\Krista\Documents\Grand Circus Bootcamp\DailyLabs\CapstonePigLatin\CapstonePigLatin\obj\Debug\net6.0\CapstonePigLatin.dll
+C:\Users\Krista\Documents\Grand Circus Bootcamp\DailyLabs\CapstonePigLatin\CapstonePigLatin\obj\Debug\net6.0\refint\CapstonePigLatin.dll
+C:\Users\Krista\Documents\Grand Circus Bootcamp\DailyLabs\CapstonePigLatin\CapstonePigLatin\obj\Debug\net6.0\CapstonePigLatin.pdb
+C:\Users\Krista\Documents\Grand Circus Bootcamp\DailyLabs\CapstonePigLatin\CapstonePigLatin\obj\Debug\net6.0\CapstonePigLatin.genruntimeconfig.cache
+C:\Users\Krista\Documents\Grand Circus Bootcamp\DailyLabs\CapstonePigLatin\CapstonePigLatin\obj\Debug\net6.0\ref\CapstonePigLatin.dll
